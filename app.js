@@ -154,7 +154,4 @@ mongoose.connection.on('open', function (err) {
   }
   //process.exit(1)
 }); // enr mongoose connection open handler
-
-
-
 module.exports = app;
